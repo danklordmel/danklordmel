@@ -1,7 +1,7 @@
- Hiii, mel :3
+ Hiii, i'm mel :3
  I like cats, music, & watching tv and... being in my room
 - I’m currently trying to learn coding :]
-
+// meow
 
 
 <!---
